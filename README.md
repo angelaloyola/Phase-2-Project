@@ -50,8 +50,10 @@ Based on the regression results, here are four recommendations for homeowners lo
 
 ## Repository Structure 
 
-
+'''
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── index.ipynb   <- Jupyter Notebook file where analysis was conducted 
 ├── Home Renovation Analysis.pdf         <- PDF version of project presentation
-├── data                                <- Sourced Externally 
+├── data   <- Sourced Externally 
+├── images <- Sources Externally
+'''
