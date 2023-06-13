@@ -18,6 +18,8 @@ As a real estate company, many clients approach our firm seeking advice on how t
 
 Utilizing KC Housing Database, I will focus soley on variables that are feasible to renovate, such as bathrooms or heat source, while excluding data points like "Waterfront". By carefully selecting the variables to be tested, I will ensure that the resulting model generates actionable insights for our stakeholders.
 
+![Home Renovation](images/Price Box Plot.png)
+
 ## Methods & Results
 
 By employing an iterative approach to construct a regression model, with price as the dependent variable, the final model will  identify the different influential factors that exhibit a strong correlation with home prices. 
@@ -47,6 +49,8 @@ Based on the regression results, here are four recommendations for homeowners lo
 3. <b> Invest in the living area: </b> If feasible, explore options for expanding the living space, such as adding an extension, converting a basement or attic into usable living space, or removing non-load-bearing walls to create an open floor plan. These enhancements can provide buyers with more living space and potentially increase the desirability and value of your home.
 
 4. <b> Improve the condition of the property: </b> Prioritize making necessary repairs and upgrades throughout the property, including fixing any structural issues, updating outdated features, refreshing paint and finishes, and ensuring that the home is well-maintained. Creating a move-in ready and well-cared-for property can attract buyers and potentially increase the perceived value.
+
+![Home Renovation](images/Coefficients Plot.png)
 
 ## Repository Structure 
 
