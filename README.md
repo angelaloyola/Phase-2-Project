@@ -18,7 +18,7 @@ As a real estate company, many clients approach our firm seeking advice on how t
 
 Utilizing KC Housing Database, I will focus soley on variables that are feasible to renovate, such as bathrooms or heat source, while excluding data points like "Waterfront". By carefully selecting the variables to be tested, I will ensure that the resulting model generates actionable insights for our stakeholders.
 
-![Home Renovation](images/Price Box Plot.png)
+![Price Plot](images/price_plot.png)
 
 ## Methods & Results
 
@@ -50,7 +50,7 @@ Based on the regression results, here are four recommendations for homeowners lo
 
 4. <b> Improve the condition of the property: </b> Prioritize making necessary repairs and upgrades throughout the property, including fixing any structural issues, updating outdated features, refreshing paint and finishes, and ensuring that the home is well-maintained. Creating a move-in ready and well-cared-for property can attract buyers and potentially increase the perceived value.
 
-![Home Renovation](images/Coefficients Plot.png)
+![Coeff Plot](images/coeff_plot.png)
 
 ## Repository Structure 
 
